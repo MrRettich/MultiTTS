@@ -1,4 +1,5 @@
-# # Text-to-Speech Conversion using ElevenLabs API
+# MultiTTS
+## Text-to-Speech Conversion using ElevenLabs API
 
 This script allows you to convert text files to speech using the ElevenLabs API. It reads text files from a specified input folder, generates speech using the API, and saves the resulting audio files in an output folder.
 
